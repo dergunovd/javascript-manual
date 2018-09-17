@@ -218,6 +218,15 @@ case /*cond*/: /*body*/
 default: /*body*/
 }
 ```
+# Примеры решения задач
+
+# Задачи для самостоятельного решения
+
+# Решения задач
+
+# Тест
+
+# Ответы
 
 # Источники
 * Zakas N.C. - Professional JavaScript for Web Developers 2011
