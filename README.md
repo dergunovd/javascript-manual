@@ -211,11 +211,11 @@ a--; // a == 4;
 
 ### Инструкция switch
 ```JavaScript
-switch(<var>) {
-case <cond>: <body>
+switch(/*var*/) {
+case /*cond*/: /*body*/
 ...
-case <cond>: <body>
-default: <body>
+case /*cond*/: /*body*/
+default: /*body*/
 }
 ```
 
